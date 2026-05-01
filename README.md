@@ -17,7 +17,6 @@
 ## 👨‍💻 About Me
 • CS Undergrad  
 • Focusing on **MLOps | Computer Vision | Bionics**  
-• GDC Member  
 
 I never enjoy that much building intelligent, secure, and scalable systems, although it's necessity :p
 
@@ -33,8 +32,8 @@ I never enjoy that much building intelligent, secure, and scalable systems, alth
 
 ---
 
-## 🛡️ Quote
-> *"Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say."*  
+## 🛡️ 
+> *"Even if you're not doing anything wrong, you are being watched and recorded."*  
 — **Edward Snowden**
 
 ---
@@ -42,3 +41,5 @@ I never enjoy that much building intelligent, secure, and scalable systems, alth
 ## 🌐 Connect
 - 📧 Email: **pranto.malakar@yahoo.com**  
 - 🔗 LinkedIn: [in/connect-pranto](https://www.linkedin.com/in/connect-pranto)
+
+Thanks for visiting!
